@@ -1,0 +1,6 @@
+[submodule "alumett1es"]
+	path = alumett1es
+	url = git@github.com:PouceMine07mm/Alumettes.git
+[submodule "alumettes"]
+	path = alumettes
+	url = git@github.com:PouceMine07mm/Alumettes.git
